@@ -8,5 +8,3 @@
 2. Chạy lệnh `npm install` để cài thư viện.
 3. Import file `STUDENTREG.sql` vào CSDL.
 4. Chạy dự án bằng lệnh `node app.js`.
-
-## Kết quả kiểm thử (Minh chứng)
